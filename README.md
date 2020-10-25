@@ -14,6 +14,7 @@
 
 ## 机器学习
 - [机器学习](https://book.douban.com/subject/26708119/)
+- [李宏毅2020机器学习深度学习(完整版)国语](https://www.bilibili.com/video/BV1JE411g7XF?p=14)
 
 ## 人工智能
 
