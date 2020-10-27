@@ -18,3 +18,5 @@
 
 ## 人工智能
 
+## 书籍
+- [2012.李航.统计学习方法和机器学习方法](https://github.com/apachecn/data/tree/master/book)
