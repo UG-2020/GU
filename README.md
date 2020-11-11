@@ -5,7 +5,7 @@
 - [Effective Java: Second Edition](https://book.douban.com/subject/2696119/)
 
 ### python
-- [熟悉API](https://www.runoob.com/python/python-tutorial.html)   建议1天或者几天看完
+- [熟悉API](https://www.runoob.com/python/python-tutorial.html) 
 
 ## 数学
 ### 线性代数
