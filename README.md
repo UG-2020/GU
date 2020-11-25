@@ -22,4 +22,6 @@
 
 
 ## 其他教程列表
-- [其他书籍](https://github.com/cristicmf/MVision)
+- [台大陈蕴侬老师应用深度学习公开课（偏自然语言处理）](https://www.bilibili.com/video/BV1Mi4y1V7A1)
+
+
