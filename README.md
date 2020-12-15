@@ -1,3 +1,6 @@
+## 推荐阅读
+- [概览认知](https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
+
 ## 语言
 ### java
 #### 书籍推荐
