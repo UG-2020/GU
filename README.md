@@ -10,7 +10,10 @@
 
 ### python
 - [熟悉API](https://www.runoob.com/python/python-tutorial.html) 
-
+   - [pandas cn](https://www.pypandas.cn/docs/getting_started/overview.html#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+   - [pandas en](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+   - [numpy en](https://numpy.org/doc/stable/user/quickstart.html)
+   
 ## 数学
 ### 线性代数
 ### 概率论
