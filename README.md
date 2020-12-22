@@ -1,6 +1,5 @@
 ## 推荐阅读
-- [概览认知-从零开始掌握Python机器学习](https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)  
-- [概览认知-从零开始掌握Python机器学习 中文版本](https://www.cnblogs.com/aabbcc/p/8683042.html)
+- 《深度学习入门：基于Python的理论与实现》
 
 ## 语言
 ### java
